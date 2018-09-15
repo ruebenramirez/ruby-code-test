@@ -1,13 +1,14 @@
-class Product
-  @@products = {
-    "CH1" => {"name" => "Chai", "Price" => 3.11},
-    "AP1" => {"name" => "Apples", "Price" => 6.00},
-    "CF1" => {"name" => "Coffee", "Price" => 11.23},
-    "MK1" => {"name" => "Milk", "Price" => 4.75},
-    "OM1" => {"name" => "Oatmeal", "Price" => 3.69}
-  }
+require 'catalog'
 
-  def self.find(product_code)
-    @@products[product_code]
+class Product
+  attr_reader :product_code
+  attr_reader :name
+  attr_reader :price
+
+  def initialize(product_code)
+    item = Catalog.find(product_code)
+    @product_code = product_code
+    @name = item['name']
+    @price = item['price']
   end
 end
