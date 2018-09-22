@@ -12,3 +12,18 @@ class Product
     @price = item['price']
   end
 end
+
+class ChaiProduct
+  def initialize
+    @product_code = "CH1"
+    @name = "Chai"
+    @price = 3.11
+  end
+
+  def discount
+    # TODO: experiment with handling discounts at the product level
+    ##
+    # this allows us to do things like count the total # of apples in the cart and apply discount if >=3
+  end
+end
+
