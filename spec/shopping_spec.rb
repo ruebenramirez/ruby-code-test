@@ -1,56 +1,76 @@
 require 'register'
 
 RSpec.describe Register, "#total" do
-  context "cost of Chai" do
-    it "outputs cost" do
-      Register = Register.new
-      Register.add('CH1')
-      expect(Register.total).to eq 3.11
+  context "outputs cost" do
+    it "cost of Chai" do
+      register = Register.new
+      register.add('CH1')
+      expect(register.total).to eq 3.11
     end
   end
 
-  context "cost of Apples" do
-    it "outputs cost" do
-      Register = Register.new
-      Register.add('AP1')
-      expect(Register.total).to eq 6.00
+  context "outputs cost2" do
+    it "cost of Apples" do
+      register = Register.new
+      register.add('AP1')
+      expect(register.total).to eq 6.00
     end
   end
 
-  context "cost of Coffee" do
-    it "outputs cost" do
-      Register = Register.new
-      Register.add('CF1')
-      expect(Register.total).to eq 11.23
+  context "outputs cost" do
+    it "cost of Coffee" do
+      register = Register.new
+      register.add('CF1')
+      expect(register.total).to eq 11.23
     end
   end
 
-  context "cost of Milk" do
-    it "outputs cost" do
-      Register = Register.new
-      Register.add('MK1')
-      expect(Register.total).to eq 4.75
+  context "outputs cost" do
+    it "cost of Milk" do
+      register = Register.new
+      register.add('MK1')
+      expect(register.total).to eq 4.75
     end
   end
 
-  context "cost of Oatmeal" do
-    it "outputs cost" do
-      Register = Register.new
-      Register.add('OM1')
-      expect(Register.total).to eq 3.69
+  context "outputs cost" do
+    it "cost of Oatmeal" do
+      register = Register.new
+      register.add('OM1')
+      expect(register.total).to eq 3.69
     end
   end
 
-  context "free milk with puchase of chai" do
-    it "sums Register total" do
-      Register = Register.new
-      Register.add('CH1')
-      Register.add('AP1')
-      Register.add('CF1')
-      Register.add('MK1')
-      expect(Register.total).to eq 20.34
+  context "sums Register total" do
+    it "free milk with puchase of chai" do
+      register = Register.new
+      register.add('CH1')
+      expect(register.total).to eq 3.11
+      register.add('AP1')
+      expect(register.total).to eq 9.11
+      register.add('CF1')
+      expect(register.total).to eq 20.34
+      register.add('MK1')
+      expect(register.total).to eq 20.34
+    end
+  end
+
+  context "sums Register total" do
+    it "sums milk and apple purchase" do
+      register = Register.new
+      register.add('MK1')
+      register.add('AP1')
+      expect(register.total).to eq 10.75
+    end
+  end
+
+  context "sums Register total" do
+    it "buy one get one coffee purchase" do
+      register = Register.new
+      register.add('CF1')
+      expect(register.total).to eq 11.23
+      register.add('CF1')
+      expect(register.total).to eq 11.23
     end
   end
 end
-
-
