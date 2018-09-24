@@ -1,6 +1,6 @@
-require 'line_items'
-require 'receipt'
-require 'logging'
+require_relative 'line_items'
+require_relative 'receipt'
+require_relative 'logging'
 
 class Register
   attr_reader :total
@@ -8,7 +8,6 @@ class Register
 
   def initialize
     @line_items = LineItems.new
-    @receipt = Receipt.new(self)
   end
 
   def total
@@ -21,6 +20,6 @@ class Register
   end
 
   def print_receipt
-    @receipt.print()
+    Receipt.print(@line_items.line_items, @line_items.total)
   end
 end

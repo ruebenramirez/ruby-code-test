@@ -7,6 +7,3 @@ RUN bundle install
 RUN bundle install --binstubs
 RUN bin/rspec --init
 ADD . /opt/farmers-market
-RUN ls -lah
-RUN ls -lah lib/
-RUN ls -lah spec/

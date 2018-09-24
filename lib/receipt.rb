@@ -1,32 +1,34 @@
-
 class Receipt
-
-  def initialize(cart)
-    @line_items = cart.line_items
-  end
-
-  def print()
-    @line_items.each do |li|
-      case li.type
-      when 'Product'
-        print_item(li.code, li.price)
-      when 'Discount'
-        print_discount(li.code, li.price)
+  def self.print(line_items, subtotal)
+    self.print_header
+    line_items.each do |li|
+      self.print_item(li.product_code, li.price)
+      li.specials.each do |s|
+        if s.active
+          self.print_discount(s.special_code, s.discount_value)
+        end
       end
     end
+    self.print_total(subtotal)
   end
 
-  def print_header
+  def self.print_header
     puts "Item" % "%27s" % "Price"
 		puts "----" % "%27s" % "-----"
   end
 
-  def print_item(item, price)
+  def self.print_item(item, price)
     puts "%-27{i}%{p}".% i: item, p: price
   end
 
-  def print_discount(discount, price)
-    puts "%12{d}%19{p}".% d: discount, p: price
+  def self.print_discount(discount, price)
+    puts "%12{d}%20{p}".% d: discount, p: price
+  end
+
+  def self.print_total(subtotal)
+    puts "-------------------------------"
+    puts "%31{p}".% p: subtotal
+
   end
 end
 

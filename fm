@@ -1,0 +1,41 @@
+#!/usr/bin/ruby
+
+require 'slop'
+require_relative 'lib/register'
+require_relative 'lib/catalog'
+
+opts = Slop.parse do |o|
+  o.array '--register', 'a list of products', delimiter: ','
+  o.bool '-a', '--autocheckout', 'Auto subtotal and checkout'
+end
+
+register = Register.new
+
+unless opts[:register].nil?
+  opts[:register].each do |p|
+    register.add(p)
+  end
+end
+
+if not opts[:autocheckout]
+  checkout_options = Catalog.product_list
+  checkout_options.push('checkout')
+  while true
+    puts "what else can I get you?"
+    puts "options: #{checkout_options.join(',')}"
+    option = gets.chomp
+    if not checkout_options.include?(option)
+       next
+    end
+    case option
+    when "checkout"
+      break
+    else
+      register.add(option)
+      register.print_receipt
+    end
+  end
+end
+
+puts "Thank you for your business!  Here's your final receipt"
+register.print_receipt

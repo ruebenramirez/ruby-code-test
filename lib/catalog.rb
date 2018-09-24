@@ -47,4 +47,8 @@ class Catalog
   def self.find_special(special_code)
     @@specials[special_code]
   end
+
+  def self.product_list
+    @@products.keys
+  end
 end

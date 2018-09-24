@@ -1,6 +1,6 @@
-require 'line_item'
-require 'catalog'
-require 'logging'
+require_relative 'line_item'
+require_relative 'catalog'
+require_relative 'logging'
 
 class SpecialFactory
   def self.build(special_code)

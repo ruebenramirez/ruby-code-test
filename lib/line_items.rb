@@ -1,8 +1,10 @@
-require 'product'
-require 'line_item'
-require 'logging'
+require_relative 'product'
+require_relative 'line_item'
+require_relative 'logging'
 
 class LineItems
+  attr_reader :line_items
+
   def initialize()
     @line_items = []
   end

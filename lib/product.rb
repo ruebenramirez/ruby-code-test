@@ -1,6 +1,6 @@
-require 'catalog'
-require 'special'
-require 'logging'
+require_relative 'catalog'
+require_relative 'special'
+require_relative 'logging'
 
 class Product
   attr_reader :product_code
