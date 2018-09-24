@@ -1,8 +1,12 @@
-FROM ruby:2.5.1-apline3.7
+FROM ruby:2-alpine
 
-RUN apk add make
-ADD ./Gemfile.* /opt/farmers-market/
-RUN bundle install
-ADD . /opt/farmers-market
 WORKDIR /opt/farmers-market
-RUN make test
+RUN apk add make
+ADD ./Gemfile /opt/farmers-market/Gemfile
+RUN bundle install
+RUN bundle install --binstubs
+RUN bin/rspec --init
+ADD . /opt/farmers-market
+RUN ls -lah
+RUN ls -lah lib/
+RUN ls -lah spec/
