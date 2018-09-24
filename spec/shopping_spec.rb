@@ -9,7 +9,7 @@ RSpec.describe Register, "#total" do
     end
   end
 
-  context "outputs cost2" do
+  context "outputs cost" do
     it "cost of Apples" do
       register = Register.new
       register.add('AP1')
@@ -71,6 +71,20 @@ RSpec.describe Register, "#total" do
       expect(register.total).to eq 11.23
       register.add('CF1')
       expect(register.total).to eq 11.23
+    end
+  end
+
+  context "sums Register total" do
+    it "buy 3 apples purchase" do
+      register = Register.new
+      register.add('AP1')
+      expect(register.total).to eq 6.00
+      register.add('AP1')
+      expect(register.total).to eq 12.00
+      register.add('CH1')
+      expect(register.total).to eq 15.11
+      register.add('AP1')
+      expect(register.total).to eq 16.61
     end
   end
 end

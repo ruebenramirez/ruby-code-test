@@ -1,0 +1,1992 @@
+# Logfile created on 2018-09-23 19:03:59 -0500 by logger.rb/56438
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:03:59 #65753]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 3.11
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 6.0
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 11.23
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 4.75
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 3.69
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 3.11
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 9.11
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 20.34
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 20.34
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 10.75
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 11.23
+I, [2018-09-23 19:23:48 #65852]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:23:48 #65852]  INFO -- : total: 22.46
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 3.11
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 6.0
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 11.23
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 4.75
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 3.69
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 3.11
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 9.11
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 20.34
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 20.34
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 10.75
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 11.23
+I, [2018-09-23 19:24:08 #65963]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:24:08 #65963]  INFO -- : total: 22.46
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 3.11
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 6.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 11.23
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 4.75
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 3.69
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 3.11
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 9.11
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 20.34
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 10.75
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 11.23
+I, [2018-09-23 19:29:55 #65990]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:29:55 #65990]  INFO -- : total: 22.46
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 3.11
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 6.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 11.23
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 4.75
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 3.69
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 3.11
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 9.11
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 20.34
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 10.75
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 11.23
+I, [2018-09-23 19:30:34 #66078]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:30:34 #66078]  INFO -- : total: 22.46
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 3.11
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 6.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 11.23
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 4.75
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 3.69
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 3.11
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 9.11
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 20.34
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 10.75
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 11.23
+I, [2018-09-23 19:41:28 #66130]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:41:28 #66130]  INFO -- : total: 22.46
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product CH1 initialized with 
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 3.11
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product AP1 initialized with #<Special:0x00007f88af1330c8>,#<Special:0x00007f88af1330a0>
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 6.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product CF1 initialized with 
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 11.23
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product MK1 initialized with #<Special:0x00007f88af128d08>
+I, [2018-09-23 19:50:14 #66170]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 4.75
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product OM1 initialized with 
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 3.69
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product CH1 initialized with 
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 3.11
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product AP1 initialized with #<Special:0x00007f88af11b400>,#<Special:0x00007f88af11b3d8>
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 9.11
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product CF1 initialized with 
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 20.34
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product MK1 initialized with #<Special:0x00007f88af119150>
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product MK1 initialized with #<Special:0x00007f88af10af88>
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product AP1 initialized with #<Special:0x00007f88af10a650>,#<Special:0x00007f88af10a628>
+I, [2018-09-23 19:50:14 #66170]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 10.75
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product CF1 initialized with 
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 11.23
+I, [2018-09-23 19:50:14 #66170]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:50:14 #66170]  INFO -- : product CF1 initialized with 
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:50:14 #66170]  INFO -- : total: 22.46
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product CH1 initialized with 
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 3.11
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product AP1 initialized with APPL,APOM
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 6.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product CF1 initialized with 
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 11.23
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product MK1 initialized with CHMK
+I, [2018-09-23 19:51:40 #66187]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 4.75
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product OM1 initialized with 
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 3.69
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product CH1 initialized with 
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 3.11
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product AP1 initialized with APPL,APOM
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 9.11
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product CF1 initialized with 
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 20.34
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product MK1 initialized with CHMK
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product MK1 initialized with CHMK
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product AP1 initialized with APPL,APOM
+I, [2018-09-23 19:51:40 #66187]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 10.75
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product CF1 initialized with 
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 11.23
+I, [2018-09-23 19:51:40 #66187]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:51:40 #66187]  INFO -- : product CF1 initialized with 
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:51:40 #66187]  INFO -- : total: 22.46
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 3.11
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 6.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product CF1 initialized with these specials: 
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 11.23
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:52:03 #66211]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 4.75
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product OM1 initialized with these specials: 
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 3.69
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 3.11
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 9.11
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product CF1 initialized with these specials: 
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 20.34
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:52:03 #66211]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 10.75
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product CF1 initialized with these specials: 
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 11.23
+I, [2018-09-23 19:52:03 #66211]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:52:03 #66211]  INFO -- : product CF1 initialized with these specials: 
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:03 #66211]  INFO -- : total: 22.46
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 3.11
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 6.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 19:52:42 #66251]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 11.23
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:52:42 #66251]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 4.75
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product OM1 initialized with these specials: 
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 3.69
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 3.11
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 9.11
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 20.34
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:52:42 #66251]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 10.75
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 19:52:42 #66251]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 19:52:42 #66251]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:52:42 #66251]  INFO -- : total: 11.23
+I, [2018-09-23 19:52:42 #66251]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:52:42 #66251]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 19:52:42 #66251]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 3.11
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 6.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 19:54:04 #66277]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 11.23
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:54:04 #66277]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 4.75
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding OM1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product OM1 initialized with these specials: 
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 3.69
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding CH1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 3.11
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 9.11
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 20.34
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : MK1's special CHMK is active
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: -4.75
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 20.34
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding MK1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding AP1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 19:54:04 #66277]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 10.75
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 19:54:04 #66277]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: 0.0
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 11.23
+I, [2018-09-23 19:54:04 #66277]  INFO -- : adding CF1 to line items
+I, [2018-09-23 19:54:04 #66277]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 19:54:04 #66277]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : CF1's special BOGO is active
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: -11.23
+I, [2018-09-23 19:54:04 #66277]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-23 19:54:04 #66277]  INFO -- : CF1's special BOGO is active
+I, [2018-09-23 19:54:04 #66277]  INFO -- : discount total: -11.23
+I, [2018-09-23 19:54:04 #66277]  INFO -- : total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding CH1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 3.11
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding AP1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of AP1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of OM1 in cart: 0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 6.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding CF1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CF1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 11.23
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding MK1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CH1 in cart: 0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 4.75
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding OM1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product OM1 initialized with these specials: 
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 3.69
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding CH1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 3.11
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding AP1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of AP1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of OM1 in cart: 0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 9.11
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding CF1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of AP1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of OM1 in cart: 0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CF1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 20.34
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding MK1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of AP1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of OM1 in cart: 0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CF1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CH1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : MK1's special CHMK is active
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: -4.75
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 20.34
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding MK1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding AP1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CH1 in cart: 0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of AP1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of OM1 in cart: 0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 10.75
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding CF1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CF1 in cart: 1
+I, [2018-09-23 20:38:25 #66585]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 11.23
+I, [2018-09-23 20:38:25 #66585]  INFO -- : adding CF1 to line items
+I, [2018-09-23 20:38:25 #66585]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CF1 in cart: 2
+I, [2018-09-23 20:38:25 #66585]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : CF1's special BOGO is active
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: -11.23
+I, [2018-09-23 20:38:25 #66585]  INFO -- : quantity of CF1 in cart: 2
+I, [2018-09-23 20:38:25 #66585]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-23 20:38:25 #66585]  INFO -- : CF1's special BOGO is active
+I, [2018-09-23 20:38:25 #66585]  INFO -- : discount total: -11.23
+I, [2018-09-23 20:38:25 #66585]  INFO -- : total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding CH1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 3.11
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding AP1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 6.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding CF1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 20:44:26 #66632]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 11.23
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding MK1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 20:44:26 #66632]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 4.75
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding OM1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product OM1 initialized with these specials: 
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 3.69
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding CH1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 3.11
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding AP1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 9.11
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding CF1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 20.34
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding MK1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : MK1's special CHMK is active
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: -4.75
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 20.34
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding MK1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding AP1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-23 20:44:26 #66632]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APPL's in cart: 1 (3 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 10.75
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding CF1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 20:44:26 #66632]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: 0.0
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 11.23
+I, [2018-09-23 20:44:26 #66632]  INFO -- : adding CF1 to line items
+I, [2018-09-23 20:44:26 #66632]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-23 20:44:26 #66632]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : CF1's special BOGO is active
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: -11.23
+I, [2018-09-23 20:44:26 #66632]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-23 20:44:26 #66632]  INFO -- : CF1's special BOGO is active
+I, [2018-09-23 20:44:26 #66632]  INFO -- : discount total: -11.23
+I, [2018-09-23 20:44:26 #66632]  INFO -- : total: 0.0
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:15:21 #67946]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-24 08:15:21 #67946]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:15:21 #67946]  INFO -- : total: 3.11
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:15:21 #67946]  INFO -- : product OM1 initialized with these specials: 
+I, [2018-09-24 08:15:21 #67946]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:15:21 #67946]  INFO -- : total: 3.69
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:15:21 #67946]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-24 08:15:21 #67946]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:15:21 #67946]  INFO -- : total: 3.11
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:15:21 #67946]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-24 08:16:39 #68024]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:16:39 #68024]  INFO -- : total: 3.11
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product OM1 initialized with these specials: 
+I, [2018-09-24 08:16:39 #68024]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:16:39 #68024]  INFO -- : total: 3.69
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-24 08:16:39 #68024]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:16:39 #68024]  INFO -- : total: 3.11
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-24 08:16:39 #68024]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-24 08:16:39 #68024]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:16:39 #68024]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-24 08:19:34 #68111]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:19:34 #68111]  INFO -- : total: 3.11
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product OM1 initialized with these specials: 
+I, [2018-09-24 08:19:34 #68111]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:19:34 #68111]  INFO -- : total: 3.69
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product CH1 initialized with these specials: 
+I, [2018-09-24 08:19:34 #68111]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:19:34 #68111]  INFO -- : total: 3.11
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-24 08:19:34 #68111]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+I, [2018-09-24 08:19:34 #68111]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:19:34 #68111]  INFO -- : product CF1 initialized with these specials: BOGO
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: CH1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:21:37 #68176]  INFO -- : total: 3.11
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: AP1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: CF1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: MK1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: OM1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:21:37 #68176]  INFO -- : total: 3.69
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: CH1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:21:37 #68176]  INFO -- : total: 3.11
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: CH1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: AP1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: MK1
+I, [2018-09-24 08:21:37 #68176]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:21:37 #68176]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:21:37 #68176] DEBUG -- : line item: CF1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: CH1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:25:07 #68232]  INFO -- : total: 3.11
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: AP1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: CF1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: MK1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: OM1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:25:07 #68232]  INFO -- : total: 3.69
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: CH1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:25:07 #68232]  INFO -- : total: 3.11
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: CH1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: AP1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: MK1
+I, [2018-09-24 08:25:07 #68232]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:25:07 #68232]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:25:07 #68232] DEBUG -- : line item: CF1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: CH1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:26:20 #68260]  INFO -- : total: 3.11
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: AP1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: CF1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: MK1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: OM1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:26:20 #68260]  INFO -- : total: 3.69
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: CH1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:26:20 #68260]  INFO -- : total: 3.11
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: CH1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: AP1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: MK1
+I, [2018-09-24 08:26:20 #68260]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:26:20 #68260]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:26:20 #68260] DEBUG -- : line item: CF1
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:28:37 #68293]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:28:37 #68293] DEBUG -- : line item: CH1
+I, [2018-09-24 08:28:37 #68293]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:28:37 #68293]  INFO -- : total: 3.11
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:28:37 #68293]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:28:37 #68293] DEBUG -- : line item: OM1
+I, [2018-09-24 08:28:37 #68293]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:28:37 #68293]  INFO -- : total: 3.69
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:28:37 #68293]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:28:37 #68293] DEBUG -- : line item: CH1
+I, [2018-09-24 08:28:37 #68293]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:28:37 #68293]  INFO -- : total: 3.11
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:28:37 #68293]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : line item: CH1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:29:53 #68328]  INFO -- : total: 3.11
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding OM1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product OM1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : line item: OM1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:29:53 #68328]  INFO -- : total: 3.69
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : line item: CH1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:29:53 #68328]  INFO -- : total: 3.11
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:29:53 #68328]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:29:53 #68328] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : line item: CH1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:31:12 #68378]  INFO -- : total: 3.11
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding OM1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product OM1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : line item: OM1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:31:12 #68378]  INFO -- : total: 3.69
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : line item: CH1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:31:12 #68378]  INFO -- : total: 3.11
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:31:12 #68378]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:31:12 #68378] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : line item: CH1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:31:23 #68401]  INFO -- : total: 3.11
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding OM1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product OM1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : line item: OM1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:31:23 #68401]  INFO -- : total: 3.69
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : line item: CH1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:31:23 #68401]  INFO -- : total: 3.11
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:31:23 #68401]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:31:23 #68401] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : line item: CH1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:34:27 #68457]  INFO -- : total: 3.11
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding OM1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product OM1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : line item: OM1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:34:27 #68457]  INFO -- : total: 3.69
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : line item: CH1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:34:27 #68457]  INFO -- : total: 3.11
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:34:27 #68457]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:34:27 #68457] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : line item: CH1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:35:07 #68539]  INFO -- : total: 3.11
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding OM1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product OM1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : line item: OM1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:35:07 #68539]  INFO -- : total: 3.69
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : line item: CH1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:35:07 #68539]  INFO -- : total: 3.11
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:35:07 #68539]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:35:07 #68539] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : line item: CH1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:39:07 #68648]  INFO -- : total: 3.11
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding OM1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product OM1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : line item: OM1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:39:07 #68648]  INFO -- : total: 3.69
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : line item: CH1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:39:07 #68648]  INFO -- : total: 3.11
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:39:07 #68648]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:39:07 #68648] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : line item: CH1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:39:43 #68698]  INFO -- : total: 3.11
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding OM1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product OM1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : line item: OM1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:39:43 #68698]  INFO -- : total: 3.69
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : line item: CH1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:39:43 #68698]  INFO -- : total: 3.11
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build special APPL for product AP1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build special CHMK for product MK1
+I, [2018-09-24 08:39:43 #68698]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:39:43 #68698] DEBUG -- : getting ready to build special BOGO for product CF1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 3.11
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special APPL for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: APPL
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing APPL: APPL
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special APOM for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: APOM
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing APOM: APOM
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 6.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special BOGO for product CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: BOGO
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing BOGO: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 11.23
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special CHMK for product MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: CHMK
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing CHMK: CHMK
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: CHMK
+I, [2018-09-24 08:40:03 #68753]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 4.75
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding OM1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product OM1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: OM1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 3.69
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding CH1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product CH1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 3.11
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special APPL for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: APPL
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing APPL: APPL
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special APOM for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: APOM
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing APOM: APOM
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 9.11
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special BOGO for product CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: BOGO
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing BOGO: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 20.34
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special CHMK for product MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: CHMK
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing CHMK: CHMK
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: CHMK
+I, [2018-09-24 08:40:03 #68753]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding MK1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special CHMK for product MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: CHMK
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing CHMK: CHMK
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding AP1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special APPL for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: APPL
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing APPL: APPL
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special APOM for product AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: APOM
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing APOM: APOM
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: MK1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: CHMK
+I, [2018-09-24 08:40:03 #68753]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:03 #68753]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 10.75
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special BOGO for product CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: BOGO
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing BOGO: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:40:03 #68753]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:03 #68753]  INFO -- : total: 11.23
+I, [2018-09-24 08:40:03 #68753]  INFO -- : adding CF1 to line items
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build specials for product CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : getting ready to build special BOGO for product CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : RRRRRRRRRRRRRRRRRRRbuilding special: BOGO
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : initializing BOGO: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:03 #68753] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:03 #68753]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 3.11
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 6.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:46 #68810]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 11.23
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: MK1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: CHMK
+I, [2018-09-24 08:40:46 #68810]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 4.75
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: OM1
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 3.69
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 3.11
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 9.11
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:46 #68810]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 20.34
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CH1
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:46 #68810]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: MK1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: CHMK
+I, [2018-09-24 08:40:46 #68810]  INFO -- : CHMK's in cart: 1 (1 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: MK1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: CHMK
+I, [2018-09-24 08:40:46 #68810]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: AP1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APPL
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: APOM
+I, [2018-09-24 08:40:46 #68810]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 10.75
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:46 #68810]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:40:46 #68810]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:40:46 #68810]  INFO -- : total: 11.23
+I, [2018-09-24 08:40:46 #68810]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:40:46 #68810]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : line item: CF1
+D, [2018-09-24 08:40:46 #68810] DEBUG -- : special: BOGO
+I, [2018-09-24 08:40:46 #68810]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 3.11
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 6.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:17 #68853]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 11.23
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: MK1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: CHMK
+I, [2018-09-24 08:41:17 #68853]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 4.75
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: OM1
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 3.69
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 3.11
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 9.11
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:17 #68853]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 20.34
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:17 #68853]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: MK1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: CHMK
+I, [2018-09-24 08:41:17 #68853]  INFO -- : CHMK's in cart: 1 (1 required)
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : MK1's special CHMK --- is ACTIVE
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: -4.75
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 20.34
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: MK1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: CHMK
+I, [2018-09-24 08:41:17 #68853]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:17 #68853]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 10.75
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:17 #68853]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:41:17 #68853]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:17 #68853]  INFO -- : total: 11.23
+I, [2018-09-24 08:41:17 #68853]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:41:17 #68853]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:17 #68853] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:17 #68853]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 3.11
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 6.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:34 #68921]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 11.23
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: MK1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: CHMK
+I, [2018-09-24 08:41:34 #68921]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 4.75
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: OM1
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 3.69
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 3.11
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 9.11
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:34 #68921]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 20.34
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CH1
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:34 #68921]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: MK1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: CHMK
+I, [2018-09-24 08:41:34 #68921]  INFO -- : CHMK's in cart: 1 (1 required)
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : MK1's special CHMK --- is ACTIVE
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: -4.75
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 20.34
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: MK1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: CHMK
+I, [2018-09-24 08:41:34 #68921]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: AP1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APPL
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: APOM
+I, [2018-09-24 08:41:34 #68921]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 10.75
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:34 #68921]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:41:34 #68921]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:41:34 #68921]  INFO -- : total: 11.23
+I, [2018-09-24 08:41:34 #68921]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:41:34 #68921]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : line item: CF1
+D, [2018-09-24 08:41:34 #68921] DEBUG -- : special: BOGO
+I, [2018-09-24 08:41:34 #68921]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CH1
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 3.11
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: AP1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APPL
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APOM
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 6.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CF1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: BOGO
+I, [2018-09-24 08:43:09 #69088]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 11.23
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: MK1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: CHMK
+I, [2018-09-24 08:43:09 #69088]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 4.75
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: OM1
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 3.69
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CH1
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 3.11
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CH1
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: AP1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APPL
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APOM
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 9.11
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CH1
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: AP1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APPL
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APOM
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CF1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: BOGO
+I, [2018-09-24 08:43:09 #69088]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 20.34
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CH1
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: AP1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APPL
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APOM
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CF1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: BOGO
+I, [2018-09-24 08:43:09 #69088]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: MK1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: CHMK
+I, [2018-09-24 08:43:09 #69088]  INFO -- : CHMK's in cart: 1 (1 required)
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : MK1's special CHMK --- is ACTIVE
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: -4.75
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 20.34
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: MK1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: CHMK
+I, [2018-09-24 08:43:09 #69088]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: AP1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APPL
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: APOM
+I, [2018-09-24 08:43:09 #69088]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 10.75
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CF1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: BOGO
+I, [2018-09-24 08:43:09 #69088]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 11.23
+I, [2018-09-24 08:43:09 #69088]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:43:09 #69088]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CF1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: BOGO
+I, [2018-09-24 08:43:09 #69088]  INFO -- : BOGO's in cart: 2 (2 required)
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : CF1's special BOGO --- is ACTIVE
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: -11.23
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : line item: CF1
+D, [2018-09-24 08:43:09 #69088] DEBUG -- : special: BOGO
+I, [2018-09-24 08:43:09 #69088]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-24 08:43:09 #69088]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:43:09 #69088]  INFO -- : total: 11.23
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CH1
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 3.11
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 6.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CF1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: BOGO
+I, [2018-09-24 08:46:24 #69172]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 11.23
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: MK1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: CHMK
+I, [2018-09-24 08:46:24 #69172]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 4.75
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding OM1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product OM1 initialized with these specials: 
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: OM1
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 3.69
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CH1
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 3.11
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CH1
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 9.11
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CH1
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CF1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: BOGO
+I, [2018-09-24 08:46:24 #69172]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 20.34
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product MK1 initialized with these specials: CHMK
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CH1
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CF1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: BOGO
+I, [2018-09-24 08:46:24 #69172]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: MK1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: CHMK
+I, [2018-09-24 08:46:24 #69172]  INFO -- : CHMK's in cart: 1 (1 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : MK1's special CHMK --- is ACTIVE
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: -4.75
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 20.34
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding MK1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product MK1 initialized with these specials: CHMK
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: MK1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: CHMK
+I, [2018-09-24 08:46:24 #69172]  INFO -- : CHMK's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 10.75
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CF1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: BOGO
+I, [2018-09-24 08:46:24 #69172]  INFO -- : BOGO's in cart: 1 (2 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 11.23
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding CF1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product CF1 initialized with these specials: BOGO
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CF1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: BOGO
+I, [2018-09-24 08:46:24 #69172]  INFO -- : BOGO's in cart: 2 (2 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : CF1's special BOGO --- is ACTIVE
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: -11.23
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CF1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: BOGO
+I, [2018-09-24 08:46:24 #69172]  INFO -- : BOGO's in cart: 2 (2 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 11.23
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 1 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 6.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 2 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 2 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 12.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding CH1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product CH1 initialized with these specials: 
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 2 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 2 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CH1
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 15.11
+I, [2018-09-24 08:46:24 #69172]  INFO -- : adding AP1 to line items
+I, [2018-09-24 08:46:24 #69172]  INFO -- : product AP1 initialized with these specials: APPL,APOM
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 3 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : AP1's special APPL --- is ACTIVE
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: -1.5
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 3 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : AP1's special APPL --- is ACTIVE
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: -1.5
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: CH1
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: 0.0
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : line item: AP1
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APPL
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APPL's in cart: 3 (3 required)
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : AP1's special APPL --- is ACTIVE
+D, [2018-09-24 08:46:24 #69172] DEBUG -- : special: APOM
+I, [2018-09-24 08:46:24 #69172]  INFO -- : APOM's in cart: 0 (1 required)
+I, [2018-09-24 08:46:24 #69172]  INFO -- : discount total: -1.5
+I, [2018-09-24 08:46:24 #69172]  INFO -- : total: 16.61

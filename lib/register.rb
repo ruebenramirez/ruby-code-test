@@ -1,5 +1,6 @@
 require 'line_items'
 require 'receipt'
+require 'logging'
 
 class Register
   attr_reader :total
@@ -15,6 +16,7 @@ class Register
   end
 
   def add(product_code)
+    Logging.log.info("adding #{product_code} to line items")
     @line_items.add(product_code)
   end
 

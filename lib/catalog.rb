@@ -8,7 +8,7 @@ class Catalog
               "special_codes" => ["APPL", "APOM"]},
     "CF1" => {"name" => "Coffee",
               "price" => 11.23,
-              "speacial_codes" => ["BOGO"]},
+              "special_codes" => ["BOGO"]},
     "MK1" => {"name" => "Milk",
               "price" => 4.75,
               "special_codes" => ["CHMK"]},
